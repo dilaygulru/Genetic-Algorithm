@@ -59,8 +59,6 @@ Below is the expected screenshot of the generated HTML file:
 ![image](https://github.com/user-attachments/assets/f35ffa66-1152-4413-a057-b11f06ca2fed)
 
 
-![Map Screenshot](html_screenshot.png)
-
 ## Dependencies
 - `mindspore`
 - `numpy`
